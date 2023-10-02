@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    /* background-color: aqua; */
 
 }
 
@@ -21,3 +21,30 @@ nav{
     font-size: 32px;
     
 }
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.p img{
+    width: 50%;
+    height: 50%;
+    }
+
+    .q1 img{
+        width: 50%;
+        height: 50%;
+        }
+
+        .r img{
+            width: 50%;
+            height: 50%;
+            }
+
+            .s img{
+                width: 50%;
+                height: 50%;
+                }
