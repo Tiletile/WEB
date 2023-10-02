@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+
+}
+
+nav{
+    width: 100w;
+    height: 30vh;
+    background-color: brown;
+    text-decoration: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-transform: uppercase;
+   
+}
+
+.q{
+    width: 50%;
+    margin: 50px auto;
+    font-size: 32px;
+    
+}
